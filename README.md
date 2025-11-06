@@ -70,5 +70,4 @@ The ultrasonic sensor continuously measures distance to nearby objects.When an o
 7. Conclusion
 The smart dustbin system was successfully designed and simulated in TinkerCAD.The prototype demonstrates effective automated operation using ultrasonic sensing and motor control, providing a practical solution for hygienic waste disposal. Future enhancements could include weight sensors, fill-level monitoring, and wireless connectivity.
 
-Submitted by: [Your Name]
-Date:[Current Date]
+
